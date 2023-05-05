@@ -11,4 +11,4 @@ Drivers stopped between 16 to 30 minutes were more likely to be arrested, as thi
 Drivers aged 20-23 were found to commit the most violations, with 22-year-olds being the most frequent offenders.
 Speeding violations were responsible for the highest number of arrests.
 Link of dataset : kaggle datasets download -d melihkanbay/police
-Link of project : 
+Link of project : https://github.com/vivekpurohit08/Traffic-Violations.git
